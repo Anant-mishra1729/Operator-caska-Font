@@ -1,3 +1,5 @@
 # Operator-caska-Font
-Combination of CaskaydiaCove Nerd Font and Operator Mono
+**CaskaydiaCove Nerd Font** and **Operator Mono** combined in one.
 <img src = "code.png" />
+
+Use **`Operator-Caska`** in Vscode.
