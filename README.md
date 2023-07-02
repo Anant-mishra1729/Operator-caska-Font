@@ -4,3 +4,5 @@
 * Use **`Operator-Caska`** in Vscode/Sublime or any other text editor you use.
 
 ![image](https://github.com/Anant-mishra1729/Operator-caska-Font/assets/84588156/3c93c28f-5c9e-4320-85bd-517f808985b9)
+
+<p align = "center"><b>Operator-Caska in (Monokai pro filter spectrum)</b></p>
