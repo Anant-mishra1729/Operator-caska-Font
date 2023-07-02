@@ -1,4 +1,4 @@
-# Operator-cask Font
+# Operator-caska Cursive Font
 * Nerd Font with a cursive style combination of both **CaskaydiaCove Nerd Font** and **Operator Mono**.
 * Use a theme which supports italics, such as **Monokai Pro**.
 * Use **`Operator-Caska`** in Vscode/Sublime or any other text editor you use.
