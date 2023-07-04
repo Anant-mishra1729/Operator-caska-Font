@@ -3,6 +3,6 @@
 * Use a theme which supports italics, such as **Monokai Pro**.
 * Change Font Family to **`Operator-Caska`**.
 
-![image](https://github.com/Anant-mishra1729/Operator-caska-Font/assets/84588156/3c93c28f-5c9e-4320-85bd-517f808985b9)
+![image](https://github.com/Anant-mishra1729/Operator-caska-Font/assets/84588156/bb718779-5a6f-44e5-8c05-313c67b583e8)
 
-<p align = "center"><b>Operator-Caska in (Monokai pro filter spectrum)</b></p>
+<p align = "center"><b>Operator-Caska in One monokai italic theme</b></p>
