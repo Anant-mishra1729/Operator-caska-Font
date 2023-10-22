@@ -29,6 +29,6 @@ Install the fonts by right-clicking the .ttf files.
 ## Usage
 Use a theme that supports italics, such as **Monokai Pro**.
 ### 📖 Book italics (Default)
-Changing your font family to **`Operator-caska`**.
+Change the font family to **`Operator-caska`**.
 ### 💪 Bold italics
-Change your font family to **`Operator-caska_bold`**.
+Change the font family to **`Operator-caska_bold`**.
