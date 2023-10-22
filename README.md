@@ -32,3 +32,32 @@ Use a theme that supports italics, such as **Monokai Pro**.
 Change the font family to **`Operator-caska`**.
 ### 💪 Bold italics
 Change the font family to **`Operator-caskabold`**.
+
+<hr>
+
+### Issues
+* **Operator-caskabold in Windows**: VScode font is not cursive (Issue only with Windows)
+
+You'll have to **[modify the textmate rules](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide)**, here's an example, paste this in **settings.json**
+
+```js
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "entity.name.type.class", // class names
+          "keyword", // import, export, return
+          "constant", // String, Number, Boolean..., this, super
+          "storage.type",
+          "variable.language.this.cpp"
+        ],
+        "settings": {
+          "fontStyle": "italic bold" // comments are italic
+        }
+      },
+    ]
+  },
+```
+
+
