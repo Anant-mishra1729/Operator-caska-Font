@@ -32,6 +32,3 @@ Use a theme that supports italics, such as **Monokai Pro**.
 Change the font family to **`Operator-caska`**.
 ### 💪 Bold italics
 Change the font family to **`Operator-caska_bold`**.
-
-## 🛑 Issues
-* **In Windows** Operator-caska_bold is not recognized by vscode.
