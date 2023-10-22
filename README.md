@@ -31,4 +31,4 @@ Use a theme that supports italics, such as **Monokai Pro**.
 ### 📖 Book italics (Default)
 Change the font family to **`Operator-caska`**.
 ### 💪 Bold italics
-Change the font family to **`Operator-caska_bold`**.
+Change the font family to **`Operator-caskabold`**.
