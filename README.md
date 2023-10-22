@@ -5,6 +5,13 @@ Font with ligature and cursive support, combination of both **CaskaydiaCove Nerd
 
 <p align = "center"><b>Operator-caskabold</b> with <a href = "https://vscodethemes.com/e/iamkd.one-monokai-italics/one-monokai-italics">One Monokai Theme with Italics - Danyil Karuna</a> </p>
 
+## Usage
+Use a theme that supports italics, such as **Monokai Pro**.
+### 📖 Book italics (Default)
+Font family: **`Operator-caska`**.
+### 💪 Bold italics
+Font family: **`Operator-caskabold`**.
+
 ## Installation
 Clone this repo:
 ```sh
@@ -24,14 +31,6 @@ cp -r *.ttf ~/.fonts/
 
 ### Windows
 Install the fonts by right-clicking the .ttf files.
-
-
-## Usage
-Use a theme that supports italics, such as **Monokai Pro**.
-### 📖 Book italics (Default)
-Change the font family to **`Operator-caska`**.
-### 💪 Bold italics
-Change the font family to **`Operator-caskabold`**.
 
 <hr>
 
