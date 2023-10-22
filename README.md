@@ -60,4 +60,9 @@ You'll have to **[modify the textmate rules](https://code.visualstudio.com/api/l
   },
 ```
 
+**Output**
+|Without textmate rules|With textmate rules|
+|-|-|
+|![image](https://github.com/Anant-mishra1729/Operator-caska-Font/assets/84588156/ab06dbfd-9218-4544-9690-eb3e48ee4633)|![image](https://github.com/Anant-mishra1729/Operator-caska-Font/assets/84588156/e7d69e5a-a31f-4b27-b967-39dc1ba3a44d)|
+
 
