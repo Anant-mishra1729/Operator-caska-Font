@@ -32,6 +32,11 @@ cp -r *.ttf ~/.fonts/
 ### Windows
 Install the fonts by right-clicking the .ttf files.
 
+### macOS
+```sh
+cp -R *.ttf ~/Library/Fonts/
+```
+
 <hr>
 
 ### Issues
